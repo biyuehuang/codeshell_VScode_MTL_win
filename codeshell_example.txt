@@ -1,0 +1,26 @@
+给两个二进制字符a和b，计算他们的和
+
+用C++编写一个选择排序函数
+
+C/C++编写一个选择排序函数
+
+Write a program to get all the odd numbers from a python list
+
+用Python编写一个函数，可以生成第n个Fibonacci数
+
+【2】
+用C/C++编写一个htop函数 
+
+用python写一个http server
+
+用C++写一段memory cache
+
+用纯C语言编写一个目录遍历函数 
+
+请用C语言读取CPU温度并根据温度控制笔记本电脑的风扇转速
+
+用C++写一个hello world函数
+
+Given two binary strings a and b, return their sum as a binary string.
+
+Write a Python function to generate the nth Fibonacci number.
